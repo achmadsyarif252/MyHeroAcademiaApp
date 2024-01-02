@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyHeroApp</string>
+
+    <string-array name="data_name">
+        <item>Izuku Midoriya</item>
+        <item>Katsuki Bakugo</item>
+        <item>All Might</item>
+        <item>Dabi</item>
+        <item>Shoto Todoroki</item>
+        <item>Tenya Iida</item>
+        <item>Todoroki Enji</item>
+
+
+        <!--        <item>Ochaco Uraraka</item>-->
+        <!--        <item>Tsuyu Asui</item>-->
+        <!--        <item>Momo Yaoyorozu</item>-->
+        <!--        <item>Eijiro Kirishima</item>-->
+        <!--        <item>Denki Kaminari</item>-->
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Seorang pemuda yang bercita-cita menjadi seorang pahlawan super dan mewarisi kekuatan One For All.</item>
+        <item>Seorang pemuda yang memiliki bakat ledakan dan memiliki sifat yang keras kepala serta ambisius.</item>
+        <item>Pahlawan tertinggi yang merupakan simbol perdamaian dan kekuatan tak terkalahkan. Ia adalah pengguna sebelumnya dari One For All dan menjadi mentor bagi Izuku Midoriya.</item>
+        <item>Seorang villian dengan kemampuan api biru dan memiliki tujuan untuk menghancurkan pahlawan-pahlawan.</item>
+        <item>Seorang pemuda dengan kekuatan es dan api, merupakan hasil dari percampuran dua keluarga pahlawan terkenal.</item>
+        <item>Seorang pemuda yang memiliki kecepatan super dan sangat disiplin dalam menjalankan tugasnya sebagai pahlawan.</item>
+        <item>Number One Hero,Endavour ayah dari todoroki shoto</item>
+
+        <!--        -->
+        <!--        <item>Seorang gadis yang memiliki kemampuan untuk mengendalikan gravitasi dan bermimpi menjadi pahlawan untuk membantu keluarganya.</item>-->
+        <!--        <item>Seorang gadis yang memiliki kekuatan katak dan bisa berkomunikasi dengan hewan lainnya.</item>-->
+        <!--        <item>Seorang gadis yang memiliki kemampuan untuk menciptakan objek dari lemak tubuhnya.</item>-->
+        <!--        <item>Seorang pemuda dengan kekuatan untuk mengubah tubuhnya menjadi bahan yang sangat kuat.</item>-->
+        <!--        <item>Seorang pemuda yang memiliki kemampuan untuk menghasilkan listrik, namun sering kali mengalami kegagalan dalam mengendalikan kekuatannya.</item>-->
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/midoriya</item>
+        <item>@drawable/bakugo</item>
+        <item>@drawable/allmight</item>
+        <item>@drawable/dabi</item>
+        <item>@drawable/todoroki</item>
+        <item>@drawable/lida</item>
+        <item>@drawable/todoroki_enji</item>
+
+    </integer-array>
+</resources>
