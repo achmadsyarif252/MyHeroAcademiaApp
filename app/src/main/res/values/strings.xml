@@ -37,14 +37,24 @@
         <!--        <item>Seorang pemuda yang memiliki kemampuan untuk menghasilkan listrik, namun sering kali mengalami kegagalan dalam mengendalikan kekuatannya.</item>-->
     </string-array>
 
-    <integer-array name="data_photo">
-        <item>@drawable/midoriya</item>
-        <item>@drawable/bakugo</item>
-        <item>@drawable/allmight</item>
-        <item>@drawable/dabi</item>
-        <item>@drawable/todoroki</item>
-        <item>@drawable/lida</item>
-        <item>@drawable/todoroki_enji</item>
+    <!--    <integer-array name="data_photo">-->
+    <!--        <item>@drawable/midoriya</item>-->
+    <!--        <item>@drawable/bakugo</item>-->
+    <!--        <item>@drawable/allmight</item>-->
+    <!--        <item>@drawable/dabi</item>-->
+    <!--        <item>@drawable/todoroki</item>-->
+    <!--        <item>@drawable/lida</item>-->
+    <!--        <item>@drawable/todoroki_enji</item>-->
 
-    </integer-array>
+    <!--    </integer-array>-->
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/87/Ahmad_Dahlan.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ed/Bung_Tomo.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3a/Ki_Hadjar_Dewantara_Mimbar_Umum_18_October_1949_p2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/VP_Hatta.jpg/330px-VP_Hatta.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sudirman.jpg/486px-Sudirman.jpg</item>
+    </string-array>
 </resources>
